@@ -18,4 +18,3 @@ challenges:
 - id: challenge
   name: Running Challenges
   allow_privileged: false
-
