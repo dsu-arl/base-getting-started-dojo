@@ -1,12 +1,8 @@
-id: welcome
+id: getting-started
 name: Getting Started
-type: roadshow
+type: base
 award:
   emoji: 😀
 modules:
   - id: starthere
     name: Start Here!
-  - id: linuxfundamentals
-    name: Linux Fundamentals
-  - id: linuxadmin
-    name: Linux Admin
