@@ -4,5 +4,9 @@ type: base
 award:
   emoji: 😀
 modules:
+  - import:
+    dojo: welcome
+    module: welcome
+
   - id: starthere
     name: Start Here!
